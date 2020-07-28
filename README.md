@@ -1,5 +1,10 @@
 # Automate_Pdf_generation_and_email
 Python script that Automates the process of pdf report generation and emailing it.
+Done in Following steps
+1) Summarizes and processes sales data into different categories
+2) Generate a PDF using Python
+3) Automatically send a PDF by email
+
 
 Data is provided in list format or dictionary, CSV file or JSON file.
 Here we take two exapmles, frutits and cars.
